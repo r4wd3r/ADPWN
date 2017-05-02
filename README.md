@@ -1,2 +1,2 @@
 # ADPWN
-Useful tools for Windows AD explotaition, post-exp and pwning.
+Useful tools for Windows AD explotaition and pwning.
