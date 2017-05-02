@@ -171,7 +171,7 @@ For more information:
 * Python 2.7 environment
 * DSInternals output file generated with Get-ADReplAccount or Get-ADDBAccount.
 ### Downloading
-To download the script, simply download and execute on terminal.
+To download the script, simply download and execute it on a terminal.
 ```
 wget https://raw.githubusercontent.com/r4wd3r/ADPWN/master/dsinternalsparser/dsinternalsparser.py
 chmod 755 dsinternalsparser.py
