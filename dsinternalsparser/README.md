@@ -163,7 +163,7 @@ To extract the hashes remotely:
   
 For more information:
 
-* [Retrieveing Active Directory Passwords Remotely](https://www.dsinternals.com/en/retrieving-active-directory-passwords-remotely/)
+* [Retrieving Active Directory Passwords Remotely](https://www.dsinternals.com/en/retrieving-active-directory-passwords-remotely/)
 
 
 ## Installation
