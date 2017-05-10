@@ -1,6 +1,6 @@
 # dsinternalsparser.py
 
-This tool makes easy and faster the dumping process of hashes stored in a *domain controller*.
+This tool makes easier and faster the dumping process of hashes stored in a *domain controller*.
 
 ```
 -----------------------
