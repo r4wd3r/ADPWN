@@ -10,7 +10,7 @@ This tool makes easy and faster the dumping process of hashes stored in a *domai
 
 ```
 -----------------------
-DSInternals Parser v1.1
+DSInternals Parser v1.0
 -----------------------
 
 usage: dsinternalsparser.py [-h] [-o OUTPUT] [--ntlm] [--nthistory] [--lm]
