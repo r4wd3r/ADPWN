@@ -178,7 +178,7 @@ def processFile(filename):
     hash_pattern = re.compile('.*Hash\s[0-9]*.*')
 
     try:
-        f = codecs.open(filename, 'r', "utf-8")
+        f = open(filename, 'rt', encoding='utf-8', errors='replace')
         lines = f.readlines()
         f.close()
     except:
@@ -416,7 +416,7 @@ def writeWDigestFile(users_list, output):
 
 def main():
     print "-----------------------"
-    print "DSInternals Parser v1.0"
+    print "DSInternals Parser v1.1"
     print "-----------------------\n"
 
     parser = argparse.ArgumentParser(
