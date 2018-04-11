@@ -4,7 +4,7 @@ This tool makes easier and faster the dumping process of hashes stored in a *dom
 
 ```
 -----------------------
-DSInternals Parser v1.0
+DSInternals Parser v1.1
 -----------------------
 
 usage: dsinternalsparser.py [-h] [-o OUTPUT] [--ntlm] [--nthistory] [--lm]
